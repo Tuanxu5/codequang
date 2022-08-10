@@ -1,0 +1,124 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap");
+/*==========Main-Area==========*/
+.main-area {
+  border-top: 1px solid black;
+  margin-top: 100px;
+  font-family: "SF Mono";
+}
+.main-area .section-main .list-enterprise {
+  margin: 2rem 0;
+}
+.main-area .section-main .list-enterprise .path-link > a {
+  color: #606060;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 30px;
+}
+.main-area .section-main .content-enterprise .title-enterprise > p {
+  color: #009345;
+  text-decoration: none;
+  font-size: 23px;
+  font-weight: 700;
+  line-height: 30px;
+}
+#left {
+  border: 1px solid rgb(100, 100, 99);
+}
+#right {
+  border: 1px solid rgb(100, 100, 99);
+}
+.main-area .section-main .content-enterprise .cososanpham {
+  width: 80%;
+  margin: auto;
+  font-weight: bold;
+  margin-top: 10px;
+  line-height: 30px;
+}
+.main-area .section-main .content-enterprise .company-list {
+  margin-top: 40px;
+}
+.main-area .section-main .content-enterprise .company-list .productbox1 {
+  background-image: url(../photo/doanh-nghiep/company/bg-company.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  margin-bottom: 30px;
+}
+.mgbot40px {
+  margin-bottom: 40px;
+}
+.productbox1 .product-left .logo-company {
+  width: 100px;
+  margin: 0px 0px;
+  background-color: #fff;
+  box-shadow: 0px 2px 10px rgb(140 130 130 / 48%);
+}
+.content-product {
+  padding: 1rem 1rem 1rem 0;
+}
+.content-product .title-company > a {
+  color: #060606;
+  font-weight: 800;
+  font-size: 15px;
+  text-align: center;
+  text-decoration: none;
+}
+.product-first > span {
+  color: #060606;
+  font-weight: 800;
+  font-size: 14px;
+  text-align: center;
+  text-decoration: none;
+}
+.product-last {
+}
+.address {
+  padding-left: 10px;
+  font-size: 12px;
+}
+.dapheduyet {
+  color: #fff;
+  font-size: 11px;
+  background-color: #009345;
+  padding: 3px 10px;
+  border-radius: 20px;
+}
+.sosanpham {
+  font-size: 11px;
+  color: rgba(183, 20, 20, 0.826);
+  font-weight: bold;
+}
+.bx-wrapper > a > img {
+  margin-bottom: 20px;
+}
+.body-right {
+  margin-top: -40px;
+  padding: 1rem 2rem;
+  text-align: center;
+  background-color: #efefef;
+}
+.body-right .body-right-content .search-title {
+  padding-bottom: 0.5rem;
+  font-weight: 600;
+}
+.body-right .body-right-content .search-input {
+  padding-bottom: 1rem;
+}
+.body-right .body-right-content .socongthuong {
+  padding-bottom: 1rem;
+}
+.body-right .body-right-content .quanhuyen {
+  padding-bottom: 1rem;
+}
+.body-right .body-right-content .trangthai {
+  padding-bottom: 1rem;
+}
+.button-search input {
+  font-weight: 600;
+  color: #fff;
+  width: auto;
+  background-color: #009345;
+  border: 1px solid #009345;
+}

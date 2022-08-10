@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap");
+/*==========Main-Area==========*/
+.main-area {
+  background-color: #f5f5f5;
+  color: rgb(117, 117, 117);
+  font-family: "SF Mono";
+}
+.main-area .main-form {
+  padding-bottom: 2rem;
+}
+.main-area .page-contact .form-group {
+  margin-top: 50px;
+  padding: 1rem;
+  background-color: #fff;
+}
+.main-area .page-contact .form-group .title-text > p {
+  padding-top: 0.5rem;
+}
+.main-area .page-contact .form-group .forminput {
+  padding: 1rem 1rem;
+}
+.main-area .page-contact .form-group .forminput span:nth-child(1) {
+  line-height: 35px;
+}
+.main-area .page-contact .form-group .forminput span:nth-child(2) {
+  font-weight: 800;
+  line-height: 10px;
+  color: rgb(164, 49, 49);
+}
+.main-area .page-contact .form-group .forminput .form-border {
+  padding: 1.5rem 1rem;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+}
+.main-area .page-contact .form-group .forminput .form-border img {
+  margin-bottom: 20px;
+}
